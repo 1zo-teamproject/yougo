@@ -14,24 +14,7 @@
  나욧나
  
  가나다라마바사아자차카타파하에헤이~
-<<<<<<< HEAD
-<<<<<<< HEAD
- 에헤이
 
 
- 테스트 테스트
 
-
- dsa;lkdaldsaldka되라고 ㅋㅋ
- 
- 지우
- 
-나는 지우
-=======
->>>>>>> branch 'main' of https://github.com/1zo-teamproject/yougo.git
-
-랄라라 지우지우
-=======
-
- ㅁㄴㅇ123ㅁㄴㅇ
->>>>>>> branch 'main' of https://github.com/1zo-teamproject/yougo.git
+이제 그냥 해줘
