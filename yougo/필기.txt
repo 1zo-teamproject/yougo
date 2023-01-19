@@ -15,6 +15,7 @@
  
  가나다라마바사아자차카타파하에헤이~
 <<<<<<< HEAD
+<<<<<<< HEAD
  에헤이
 
 
@@ -30,3 +31,7 @@
 >>>>>>> branch 'main' of https://github.com/1zo-teamproject/yougo.git
 
 랄라라 지우지우
+=======
+
+ ㅁㄴㅇ123ㅁㄴㅇ
+>>>>>>> branch 'main' of https://github.com/1zo-teamproject/yougo.git
