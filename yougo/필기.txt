@@ -1,0 +1,11 @@
+
+
+ pom.xml
+ 
+ - jsp + jstl
+ 
+ main - webapp - web-inf - views
+ 
+ resource > mapper 폴더 > yougo.xml
+ 
+ application.properties > 각종 설정(db, 포트번호..)
