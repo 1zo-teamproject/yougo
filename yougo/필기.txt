@@ -29,4 +29,4 @@
 =======
 >>>>>>> branch 'main' of https://github.com/1zo-teamproject/yougo.git
 
-랄라라
+랄라라 지우지우
