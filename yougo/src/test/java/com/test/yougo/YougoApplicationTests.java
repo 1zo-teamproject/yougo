@@ -10,4 +10,7 @@ class YougoApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void contextLoads2() {
+	}
 }
