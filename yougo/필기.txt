@@ -33,4 +33,15 @@
 
 관리자 (최근 패치내역 + 커뮤니티 관리 + 로그)
 
+<기능> 
+티어별 게임 통계 (tierStatics)
+메인화면(mainpage) + 전적 검색화면 (search)
+상위 유저별 게임 랭킹(highranking) + 상세화면(search)
+상위티어 챔피언 동향 (highrankChampion)
+챔피언분석(championAnalysis) + 상세 챔피언 분석(AnalysisDetail)
+마이페이지 (mypage)
+로그인/회원가입 (login)
+듀오찾기 (duo)
+커뮤니티 (community)
+
 이민영 수정 01.20 금
